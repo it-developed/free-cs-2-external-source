@@ -13,7 +13,9 @@
 ### Features
 - Basic Aimbot
 - ESP
-- 
+- Entity ESP
+- No Flash
+- Bhop (Broken)
 
 ### Subject to change
 - Add handle hacking
