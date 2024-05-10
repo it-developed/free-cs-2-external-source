@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/it-developed/hydrogen-cs2-external/">
-    <img src="menu.png" alt="Metamorph" width="640" height="440">
+    <img src="menu.png" alt="Menu" width="640" height="440">
   </a>
   <br>
   <br>
